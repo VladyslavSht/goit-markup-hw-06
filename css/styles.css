@@ -1104,6 +1104,8 @@ main {
   border-radius: 2px;
   fill: white;
   cursor: pointer;
+
+  transition: border-color 250ms var(--time-function);
 }
 
 .modal-btn {
